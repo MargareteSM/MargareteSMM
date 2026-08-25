@@ -18,7 +18,7 @@ I 💜 Code! Code is Poetry!
 
 <p align="left">Tecnologias e linguagens em que estou me aprofundando atualmente!!</p>
 
-<p align="left"> <a href="https://github.com/MargareteSMM" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub"></a> <a href="https://discord.gg/w9KmVbSTWp" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> </p>
+<p align="left"> <a href="https://github.com/MargareteSMM" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil GitHub"></a> <a href="https://discord.gg/w9KmVbSTWp" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <a href="mailto:meg@margarete.net.br" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> </p>
 
 <p align="left">
 
