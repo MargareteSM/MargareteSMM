@@ -1,4 +1,4 @@
-## Olá!! Eu sou Margarete Macedo!! 👋👋
+## Olá!! Eu sou Margarete Macedo!! 👋
 
 Tudo começou com palavras. Antes mesmo de terminar a graduação, eu já estava diante de uma sala de aula, na Escola Normal de Ceilândia, aprendendo que ensinar é, acima de tudo, um exercício de escuta. Depois vieram os Estudos Adicionais em Comunicação e Expressão, no Centro Educacional de Niterói, e a certeza de que eu queria dedicar minha vida a entender como as pessoas se comunicam — e como a linguagem pode aproximar ou afastar.
 
