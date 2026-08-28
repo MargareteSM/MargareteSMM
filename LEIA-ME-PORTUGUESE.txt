@@ -1,0 +1,67 @@
+Eventually, da HTML5 UP
+html5up.net | @ajlkn
+Gratuito para uso pessoal e comercial sob a licença CCA 3.0 (html5up.net/license)
+
+
+Um modelo simples de página de espera para seu aplicativo, produto, startup ou qualquer outra coisa incrível,
+até que seja lançado. Inclui um formulário de inscrição por e-mail e um fundo com apresentação de slides (mais detalhes abaixo).
+
+Imagens de demonstração* cortesia do Unsplash, uma coleção fantástica de imagens CC0 (domínio público)
+que você pode usar praticamente para qualquer finalidade.
+
+(* = não incluídas)
+
+AJ
+aj@lkn.io | @ajlkn
+
+
+Formulário de Inscrição:
+
+	O formulário de inscrição não fará nada na prática (além de exibir uma mensagem de agradecimento)
+	até que você o conecte a um serviço de terceiros (ex.: MailChimp) ou à sua própria solução hospedada.
+	Em ambos os casos, existem duas abordagens possíveis:
+
+	1. A maneira convencional (sem AJAX), que basicamente consiste em apontar o atributo "action"
+	do formulário para a URL do seu serviço ou script. Se optar por esse caminho, remova todo o bloco de código
+	"Signup Form" do arquivo assets/js/main.js (já que ele não é necessário para essa abordagem).
+
+	-ou-
+
+	2. A maneira com AJAX. A configuração depende muito do serviço ou solução que você está usando,
+	portanto, será necessário consultar a documentação correspondente. No entanto, incluí um código básico
+	(na seção "Signup Form" em assets/js/main.js) que permitirá, pelo menos, interagir com o
+	próprio formulário.
+
+
+Fundo com Apresentação de Slides:
+
+	O funcionamento é bem simples, mas há duas configurações de JS que você deve conhecer
+	(encontradas na seção "Slideshow Background" em assets/js/main.js):
+
+	images
+
+		A lista de imagens a serem exibidas em sequência, no seguinte formato:
+
+			'url': 'alignment'
+
+		Onde 'url' é a imagem (ex.: 'images/foo.jpg', 'http://somewhere.else/foo.jpg') e
+		'alignment' define como a imagem deve ser alinhada verticalmente ('top', 'center' ou 'bottom').
+
+Nota: Navegadores que não suportam transições CSS (como o IE9 ou versões anteriores) exibirão apenas a primeira imagem.
+
+	delay
+
+		Tempo de espera entre as transições (em ms). Observe que esse tempo deve ser, no mínimo, o dobro
+		da duração da própria transição (atualmente 3 segundos).
+
+
+Créditos:
+
+	Imagens da demonstração:
+		Unsplash (unsplash.com)
+
+	Ícones:
+		Font Awesome (fontawesome.io)
+
+	Outros:
+		Responsive Tools (github.com/ajlkn/responsive-tools)
