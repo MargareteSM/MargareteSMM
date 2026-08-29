@@ -24,7 +24,7 @@ I 💜 Code! Code is Poetry!
 
 <p align="left">
   <a href="https://github.com/MargareteSMM">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,wordpress,blogger,git,github" />
   </a>
 </p>
 
